@@ -3,9 +3,14 @@
 
   <head>
   <title>Dynamic CrossStitch </title>
-  <link "styleSheet" href="styleSheet.css"
+  <link "styleSheet" href="styleSheet.css">
   </head>
-
-<body>
-</body>
+  
+  <body>
+    <p id="title">CrossStitch</p>
+    <!-- here I want to put a cute little logo picture -->
+    <!-- I think that I need to learn how to use divs, because it seems like the screen itself should be divided into
+    sections. the canvas below was taken from W3schools, and I'll figure out what it means.-->
+    <canvas id="myCanvas" width="" height="" style="border:1px solid #000000;"></canvas>
+  </body>
 </html>
